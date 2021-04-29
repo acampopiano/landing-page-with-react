@@ -1,58 +1,40 @@
 {    
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
-    ],
-    "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
-    }    
+   "Cards" : [
+		{
+			"name": "Bob Dylanes",
+			"description":
+				"Bob Dylan, ​ registrado al nacer como Robert Allen Zimmerman, es un músico, compositor, cantante y poeta estadounidense.",
+			"imageURL":
+				"https://wmagazin.com/wp-content/uploads/2017/04/ES-ppal-Dylan.jpg",
+			"buttonLabel": "Wikipedia",
+			"buttonURL": "https://es.wikipedia.org/wiki/Bob_Dylan"
+		},
+		{
+			"name": "Paul Mccartney",
+			"description":
+				"James Paul McCartney es un artista, escritor y actor británico y es uno de los artistas más exitosos de todos los tiempos",
+			"imageURL":
+				"https://los40es00.epimg.net/los40/imagenes/2020/12/23/los40classic/1608723212_225459_1608723516_noticia_normal.jpg",
+			"buttonLabel": "Wikipedia",
+			"buttonURL": "https://es.wikipedia.org/wiki/Paul_McCartney"
+		},
+		{
+			"name": "Michael Jackson",
+			"description":
+				"Michael Joseph Jackson​ fue un cantante, compositor, productor discográfico, bailarín, actor y filántropo estadounidense",
+			"imageURL":
+				"https://www.hola.com/imagenes/biografias/michael-jackson/79629-jackson10.jpg",
+			"buttonLabel": "Wikipedia",
+			"buttonURL": "https://es.wikipedia.org/wiki/Michael_Jackson"
+		},
+		{
+			"name": "Demi Moore",
+			"description":
+				"Demetria Gene Guynes, conocida profesionalmente como Demi Moore, es una actriz, modelo y productora estadounidense",
+			"imageURL":
+				"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRJiDIPYw-23SGP5-IVdaU9DvnjUEYiYg8ltRmBy2ho_JjG_Z951b9eYscPZ1e1",
+			"buttonLabel": "Wikipedia",
+			"buttonURL": "https://es.wikipedia.org/wiki/Demi_Moore"
+		}
+	]
 }
