@@ -46,5 +46,6 @@ Cards2.propTypes = {
 	description: PropTypes.string,
 	imageURL: PropTypes.string,
 	buttonLabel: PropTypes.string,
-	buttonURL: PropTypes.string
+	buttonURL: PropTypes.string,
+	data: PropTypes.object
 };
